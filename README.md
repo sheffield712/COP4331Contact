@@ -12,13 +12,13 @@
 - [X] Stop Allowing Duplicate Users
 - [X] Confirmation on Update Contact
 - [ ] Password Hashing (Taylor)
-- [ ] Gannt Chart (Sam)
-- [ ] Use Case Diagram (Phil & Sam)
-- [ ] Log Out (Conrad)
-- [ ] Finish Presentation (Phil to polish)
-- [ ] 2x Presentation Rehearsal
-  - [ ] Next Week Team Meeting
-  - [ ] Day of Presentation
+- [X] Gannt Chart (Sam)
+- [X] Use Case Diagram (Phil & Sam)
+- [X] Log Out (Conrad)
+- [X] Finish Presentation (Phil to polish)
+- [X] 2x Presentation Rehearsal
+  - [X] Next Week Team Meeting
+  - [X] Day of Presentation
 ***
 ## API Documentation
 ***
